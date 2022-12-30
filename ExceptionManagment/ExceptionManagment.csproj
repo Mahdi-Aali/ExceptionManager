@@ -7,6 +7,8 @@
     <Title>Exception Managment</Title>
     <Authors>Mahdi-Aali</Authors>
     <Description>a library for logging exception in console or file</Description>
+    <RepositoryUrl>https://github.com/Mahdi-Aali/ExceptionManager</RepositoryUrl>
+    <PackageTags>Exception;Logging;Log;ExceptionLogging;ExceptionManagment</PackageTags>
   </PropertyGroup>
 
 </Project>
