@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Exception Managment</Title>
+    <Authors>Mahdi-Aali</Authors>
+    <Description>a library for logging exception in console or file</Description>
+  </PropertyGroup>
+
+</Project>
